@@ -1,5 +1,6 @@
-# Intro
-A collection of classical literatures for newbies (students of Prof. Gao)
+# Intro 入门经典文献
+
+A collection of classical literatures for newbies (students of Prof. Gao) #Updating...
 
 <h1>主题 Topics</h1>
 <h2>推荐系统 Recommender System</h2>
