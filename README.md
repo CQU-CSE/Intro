@@ -18,11 +18,12 @@ A collection of classical literatures for newbies (students of Prof. Gao)
 <h3> 因子分解机 Factorization Machine</h3>
 <p>[1]. Rendle, Steffen. "Factorization Machines." international conference on data mining (2010).    <a href="http://ieeexplore.ieee.org/document/5694074/?arnumber=5694074&tag=1">[PDF]</a></br>
 </p>
-
+<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 <h2>图/网络挖掘 Graph/Network Mining</h2>
 <h3>网络嵌入 Network Embedding</h3>
 <p>
 [1]. Perozzi, Bryan, Rami Alrfou, and Steven Skiena. "DeepWalk: online learning of social representations." knowledge discovery and data mining (2014): 701-710.     <a href="https://dl.acm.org/citation.cfm?id=2623732">[PDF]</a></br>
 [2]. Tang, Jian, et al. "LINE: Large-scale Information Network Embedding." international world wide web conferences (2015): 1067-1077.
 <a href="https://dl.acm.org/citation.cfm?doid=2736277.2741093">[PDF]</a></br>
+[3]. Grover, Aditya, and Jure Leskovec. "node2vec: Scalable Feature Learning for Networks." knowledge discovery and data mining (2016): 855-864.    <a href="https://dl.acm.org/citation.cfm?doid=2939672.2939754">[PDF]</a></br>
 </p>
