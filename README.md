@@ -25,6 +25,18 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <h3> 因子分解机 Factorization Machine</h3>
 <p>[1]. Rendle, Steffen. "Factorization Machines." international conference on data mining (2010).    <a href="http://ieeexplore.ieee.org/document/5694074/?arnumber=5694074&tag=1">[PDF]</a></br>
 </p>
+
+<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+<h2>异常检测 Anomaly Detection</h2>
+<h3>托攻击 Shilling Detection</h3>
+<p>
+[1]. 伍之昂, 王有权, and 曹杰. "推荐系统托攻击模型与检测技术." (2014).   <a href="http://www.cnki.com.cn/Article/CJFDTotal-KXTB201407003.htm">[PDF]</a></br>
+[2]. Lam, Shyong K., and John Riedl. "Shilling recommender systems for fun and profit." international world wide web conferences (2004): 393-402.  <a href="http://www.iw3c2.org/WWW2004/docs/1p393.pdf">[PDF]</a></br> (选读)
+[3]. Mehta, Bhaskar, and Wolfgang Nejdl. "Unsupervised strategies for shilling detection and robust collaborative filtering." User Modeling and User-adapted Interaction (2009): 65-97.   <a href="https://link.springer.com/article/10.1007/s11257-008-9050-4?view=classic">[PDF]</a></br>
+[4]. Wu, Zhiang, et al. "HySAD: a semi-supervised hybrid shilling attack detector for trustworthy product recommendation." knowledge discovery and data mining (2012): 985-993.  <a href=https://dl.acm.org/citation.cfm?id=2339684">[PDF]</a></br>
+</p>
+<h3>垃圾评论检测 Opinion Spam Detection</h3>
+
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 <h2>图/网络挖掘 Graph/Network Mining</h2>
 <h3>网络嵌入 Network Embedding</h3>
