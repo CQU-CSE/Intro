@@ -1,7 +1,7 @@
 # Intro 入门经典文献
 
 A collection of classical literatures for newbies (students of Prof. Gao) <b>Updating...</b>
-</br>注：文献排序不分先后，建议同一主题按序（年份）阅读
+</br>注：文献排序不分先后，建议同一主题先阅读综述，然后按序（年份）阅读
 
 <h1>主题 Topics</h1>
 <h2>推荐系统 Recommender System</h2>
@@ -30,7 +30,7 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <h2>异常检测 Anomaly Detection</h2>
 <h3>托攻击 Shilling Detection</h3>
 <p>
-[1]. 伍之昂, 王有权, and 曹杰. "推荐系统托攻击模型与检测技术." (2014).   <a href="http://www.cnki.com.cn/Article/CJFDTotal-KXTB201407003.htm">[PDF]</a></br>
+[1]. 伍之昂, 王有权, and 曹杰. "推荐系统托攻击模型与检测技术." (2014).   <a href="http://www.cnki.com.cn/Article/CJFDTotal-KXTB201407003.htm">[PDF]</a></br> (综述)
 [2]. Lam, Shyong K., and John Riedl. "Shilling recommender systems for fun and profit." international world wide web conferences (2004): 393-402.  <a href="http://www.iw3c2.org/WWW2004/docs/1p393.pdf">[PDF]</a></br> (选读)
 [3]. Mehta, Bhaskar, and Wolfgang Nejdl. "Unsupervised strategies for shilling detection and robust collaborative filtering." User Modeling and User-adapted Interaction (2009): 65-97.   <a href="https://link.springer.com/article/10.1007/s11257-008-9050-4?view=classic">[PDF]</a></br>
 [4]. Wu, Zhiang, et al. "HySAD: a semi-supervised hybrid shilling attack detector for trustworthy product recommendation." knowledge discovery and data mining (2012): 985-993.  <a href=https://dl.acm.org/citation.cfm?id=2339684">[PDF]</a></br>
