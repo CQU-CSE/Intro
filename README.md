@@ -23,7 +23,9 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [2]. Zhao, Tong, Julian Mcauley, and Irwin King. "Leveraging Social Connections to Improve Personalized Ranking for Collaborative Filtering." conference on information and knowledge management (2014): 261-270.   <a href="https://dl.acm.org/citation.cfm?id=2661998">[PDF]</a></br>
 </p>
 <h3> 因子分解机 Factorization Machine</h3>
-<p>[1]. Rendle, Steffen. "Factorization Machines." international conference on data mining (2010).    <a href="http://ieeexplore.ieee.org/document/5694074/?arnumber=5694074&tag=1">[PDF]</a></br>
+<p>
+[1]. Rendle, Steffen. "Factorization Machines." international conference on data mining (2010).    <a href="http://ieeexplore.ieee.org/document/5694074/?arnumber=5694074&tag=1">[PDF]</a></br>
+[2]. Rendle, Steffen, et al. "Fast context-aware recommendations with factorization machines." international acm sigir conference on research and development in information retrieval (2011): 635-644.   <a href="http://delivery.acm.org/10.1145/2020000/2010002/p635-rendle.pdf">[PDF]</a></br>
 </p>
 
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
