@@ -7,7 +7,7 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <h2>推荐系统 Recommender System</h2>
 <h3>综述 Survey</h3>
 <p>
-[1]. Bobadilla, Jesus, et al. "Recommender systems survey." Knowledge Based Systems (2013): 109-132.    <a href=https://www.sciencedirect.com/science/article/pii/S0950705113001044">[PDF]</a></br>
+[1]. Bobadilla, Jesus, et al. "Recommender systems survey." Knowledge Based Systems (2013): 109-132.    <a href=http://www.sciencedirect.com/science/article/pii/S0950705113001044">[PDF]</a></br>
 [2]. Lu, Jie, et al. "Recommender system application developments." decision support systems (2015): 12-32.   <a href=http://www.sciencedirect.com/science/article/pii/S0167923615000627">[PDF]</a></br>
 </p>
 <h3>矩阵分解 Matrix Factorization</h3>
