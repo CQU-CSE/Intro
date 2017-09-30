@@ -1,14 +1,14 @@
 # Intro 入门经典文献
 
 A collection of classical literatures for newbies (students of Prof. Gao) <b>Updating...</b>
-</br>注：文献排序不分先后，建议同一主题先阅读综述，然后按序（年份）阅读
+</br><b>注：</b>文献排序不分先后，建议同一主题先阅读综述，然后按序（年份）阅读。有的不支持外链的出版社可能无法通过贴的PDF地址下载，请自行检索下载地址
 
 <h1>主题 Topics</h1>
 <h2>推荐系统 Recommender System</h2>
 <h3>综述 Survey</h3>
 <p>
-[1]. Bobadilla, Jesus, et al. "Recommender systems survey." Knowledge Based Systems (2013): 109-132.    <a href=http://www.sciencedirect.com/science/article/pii/S0950705113001044">[PDF]</a></br>
-[2]. Lu, Jie, et al. "Recommender system application developments." decision support systems (2015): 12-32.   <a href=http://www.sciencedirect.com/science/article/pii/S0167923615000627">[PDF]</a></br>
+[1]. Bobadilla, Jesus, et al. "Recommender systems survey." Knowledge Based Systems (2013): 109-132.    
+[2]. Lu, Jie, et al. "Recommender system application developments." decision support systems (2015): 12-32.   
 </p>
 <h3>矩阵分解 Matrix Factorization</h3>
 <p>
