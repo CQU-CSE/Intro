@@ -38,6 +38,14 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [4]. Wu, Zhiang, et al. "HySAD: a semi-supervised hybrid shilling attack detector for trustworthy product recommendation." knowledge discovery and data mining (2012): 985-993.  <a href=https://dl.acm.org/citation.cfm?id=2339684">[PDF]</a></br>
 </p>
 <h3>垃圾评论检测 Opinion Spam Detection</h3>
+<p>
+[1]. Ye, Junting, and Leman Akoglu. "Discovering opinion spammer groups by network footprints." Joint European Conference on Machine Learning and Knowledge Discovery in Databases (2015): 267-282. <a href="https://link.springer.com/chapter/10.1007/978-3-319-23528-8_17">[PDF]</a></br>
+</p>
+<h3>社交网络中的虚假用户检测 Social Spammer Detection</h3>
+<p>
+[1]. Benevenuto, Fabrício, et al. "Detecting spammers and content promoters in online video social networks." Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval (2009):620-627. <a href="https://dl.acm.org/citation.cfm?id=1572047">[PDF]</a></br>
+[2]. Benevenuto, Fabricio, et al. "Detecting spammers on twitter." Collaboration, electronic messaging, anti-abuse and spam conference (CEAS). Vol. 6. (2010):12. <a href="https://gmagno.net/papers/ceas2010_benevenuto_twitterspam.pdf">[PDF]</a></br>
+</p>
 
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 <h2>图/网络挖掘 Graph/Network Mining</h2>
@@ -47,4 +55,10 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [2]. Tang, Jian, et al. "LINE: Large-scale Information Network Embedding." international world wide web conferences (2015): 1067-1077.
 <a href="https://dl.acm.org/citation.cfm?doid=2736277.2741093">[PDF]</a></br>
 [3]. Grover, Aditya, and Jure Leskovec. "node2vec: Scalable Feature Learning for Networks." knowledge discovery and data mining (2016): 855-864.    <a href="https://dl.acm.org/citation.cfm?doid=2939672.2939754">[PDF]</a></br>
+</p>
+<h3>重要节点 Vital Nodes</h3>
+<p>
+[1]. 任晓龙, and 吕琳媛. "网络重要节点排序方法综述." 科学通报 59.13 (2014): 1175-1197. <a href="http://www.linkprediction.org/resource/pdf/2014ReviewOfRankingNodesInComplexNetworks.pdf">[PDF]</a></br>
+[2]. Lü, Linyuan, et al. "The H-index of a network node and its relation to degree and coreness." Nature communications 7 (2016): 10168. <a href="https://www.nature.com/articles/ncomms10168?WT.ec_id=NCOMMS-20160113&spMailingID=50450441&spUserID=ODkwMTM2NjQyNgS2&spJobID=841691273&spReportId=ODQxNjkxMjczS0">[PDF]</a></br>
+[3]. Lü, Linyuan, et al. "Vital nodes identification in complex networks." Physics Reports 650 (2016): 1-63. <a href="http://www.sciencedirect.com/science/article/pii/S0370157316301570">[PDF]</a></br>
 </p>
