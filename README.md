@@ -28,6 +28,11 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [2]. Rendle, Steffen, et al. "Fast context-aware recommendations with factorization machines." international acm sigir conference on research and development in information retrieval (2011): 635-644.   <a href="http://delivery.acm.org/10.1145/2020000/2010002/p635-rendle.pdf">[PDF]</a></br>
 </p>
 
+<h3> 基于上下文的推荐 Context-Aware Recommendation</h3>
+<p>
+[1]. Adomavicius G., Tuzhilin A. (2011) Context-Aware Recommender Systems. In: Ricci F., Rokach L., Shapira B., Kantor P. (eds) Recommender Systems Handbook. Springer, Boston, MA    <a href="https://pdfs.semanticscholar.org/8eca/3327b0286ba063e8a70388e7440c1171c1e3.pdf">[PDF]</a></br>
+
+
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 <h2>异常检测 Anomaly Detection</h2>
 <h3>托攻击 Shilling Detection</h3>
