@@ -25,7 +25,7 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <h3> 因子分解机 Factorization Machine</h3>
 <p>
 [1]. Rendle, Steffen. "Factorization Machines." international conference on data mining (2010).    <a href="http://ieeexplore.ieee.org/document/5694074/?arnumber=5694074&tag=1">[PDF]</a></br>
-[2]. Rendle, Steffen, et al. "Fast context-aware recommendations with factorization machines." international acm sigir conference on research and development in information retrieval (2011): 635-644.   <a href="http://delivery.acm.org/10.1145/2020000/2010002/p635-rendle.pdf">[PDF]</a></br>
+[2]. Rendle, Steffen, et al. "Fast context-aware recommendations with factorization machines." international acm sigir conference on research and development in information retrieval (2011): 635-644.   <a href="https://pdfs.semanticscholar.org/7fe6/774761688b88ae467562294b6218e0760018.pdf">[PDF]</a></br>
 </p>
 
 <h3>基于上下文的推荐 Context-Aware Recommendation</h3>
