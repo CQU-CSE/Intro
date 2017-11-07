@@ -28,15 +28,15 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [2]. Rendle, Steffen, et al. "Fast context-aware recommendations with factorization machines." international acm sigir conference on research and development in information retrieval (2011): 635-644.   <a href="http://delivery.acm.org/10.1145/2020000/2010002/p635-rendle.pdf">[PDF]</a></br>
 </p>
 
-<h3> 社会化推荐 Social Recommendation</h3>
+<h3>基于上下文的推荐 Context-Aware Recommendation</h3>
 <p>
-[1]. Adomavicius G., Tuzhilin A. (2011) Context-Aware Recommender Systems. In: Ricci F., Rokach L., Shapira B., Kantor P. (eds) Recommender Systems Handbook. Springer, Boston, MA    <a href="https://pdfs.semanticscholar.org/fff4/4f028044dd6ee79b7c9c26a90a23dc8d4438.pdf">[PDF]</a></br>
+[1]. Adomavicius G., Tuzhilin A. (2011) Context-Aware Recommender Systems. In: Ricci F., Rokach L., Shapira B., Kantor P. (eds) Recommender Systems Handbook. Springer, Boston, MA    <a href="https://pdfs.semanticscholar.org/8eca/3327b0286ba063e8a70388e7440c1171c1e3.pdf">[PDF]</a></br>
 [2]. Kaminskas, Marius, and F. Ricci. "Contextual music information retrieval and recommendation: State of the art and challenges." Computer Science Review 6.2–3(2012):89-119.  <a href="http://www.sciencedirect.com/science/article/pii/S1574013712000135">[PDF]</a></br>
 </p>
 
-<h3> 基于上下文的推荐 Context-Aware Recommendation</h3>
+<h3>社会化推荐 Social Recommendation</h3>
 <p>
-[1]. Tang, J., Hu, X., & Liu, H. (2013). Social recommendation: a review. Social Network Analysis and Mining, 3(4), 1113-1133.    <a href="https://pdfs.semanticscholar.org/8eca/3327b0286ba063e8a70388e7440c1171c1e3.pdf">[PDF]</a></br>
+[1]. Tang, J., Hu, X., & Liu, H. (2013). Social recommendation: a review. Social Network Analysis and Mining, 3(4), 1113-1133.    <a href="https://pdfs.semanticscholar.org/fff4/4f028044dd6ee79b7c9c26a90a23dc8d4438.pdf">[PDF]</a></br>
 [2]. Ma, Hao, et al. "Sorec: social recommendation using probabilistic matrix factorization." Proceedings of the 17th ACM conference on Information and knowledge management. ACM, 2008.  <a href="https://pdfs.semanticscholar.org/8c41/84b7c7d8c7f6d2801d75832b10693d690f20.pdf">[PDF]</a></br>
 [3]. Jamali, Mohsen, and Martin Ester. "A matrix factorization technique with trust propagation for recommendation in social networks." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.  <a href="https://pdfs.semanticscholar.org/c732/87153c0a50102a40800c1ada626a410c63cc.pdf">[PDF]</a></br>
 </p>
