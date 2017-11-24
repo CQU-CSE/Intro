@@ -32,6 +32,7 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <p>
 [1]. Adomavicius G., Tuzhilin A. (2011) Context-Aware Recommender Systems. In: Ricci F., Rokach L., Shapira B., Kantor P. (eds) Recommender Systems Handbook. Springer, Boston, MA    <a href="https://pdfs.semanticscholar.org/8eca/3327b0286ba063e8a70388e7440c1171c1e3.pdf">[PDF]</a></br>
 [2]. Kaminskas, Marius, and F. Ricci. "Contextual music information retrieval and recommendation: State of the art and challenges." Computer Science Review 6.2–3(2012):89-119.  <a href="http://www.sciencedirect.com/science/article/pii/S1574013712000135">[PDF]</a></br>
+[3]. Knees, Peter, and Markus Schedl. "A survey of music similarity and recommendation from music context data." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 10.1 (2013): 2. <a href="https://dl.acm.org/citation.cfm?id=2542206">[PDF]</a></br>
 </p>
 
 <h3>社会化推荐 Social Recommendation</h3>
