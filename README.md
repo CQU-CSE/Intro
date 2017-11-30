@@ -42,6 +42,12 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [3]. Jamali, Mohsen, and Martin Ester. "A matrix factorization technique with trust propagation for recommendation in social networks." Proceedings of the fourth ACM conference on Recommender systems. ACM, 2010.  <a href="https://pdfs.semanticscholar.org/c732/87153c0a50102a40800c1ada626a410c63cc.pdf">[PDF]</a></br>
 </p>
 
+<h3>基于深度学习的推荐 Deep Learning Based Recommenders</h3>
+<p>
+[1]. Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.    <a href="https://dl.acm.org/citation.cfm?id=2988454">[PDF]</a></br>
+[2]. Wang, Hao, Naiyan Wang, and Dit-Yan Yeung. "Collaborative deep learning for recommender systems." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.   <a href="https://dl.acm.org/citation.cfm?id=2783273">[PDF]</a></br>
+</p>
+
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
 <h2>异常检测 Anomaly Detection</h2>
 <h3>托攻击 Shilling Detection</h3>
