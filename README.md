@@ -28,9 +28,9 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [2]. Rendle, Steffen, et al. "Fast context-aware recommendations with factorization machines." international acm sigir conference on research and development in information retrieval (2011): 635-644.   <a href="https://pdfs.semanticscholar.org/7fe6/774761688b88ae467562294b6218e0760018.pdf">[PDF]</a></br>
 </p>
 
-<h3>基于上下文的推荐 Context-Aware Recommendation</h3>
+<h3>音乐推荐 Music Recommendation</h3>
 <p>
-[1]. Adomavicius G., Tuzhilin A. (2011) Context-Aware Recommender Systems. In: Ricci F., Rokach L., Shapira B., Kantor P. (eds) Recommender Systems Handbook. Springer, Boston, MA    <a href="https://pdfs.semanticscholar.org/8eca/3327b0286ba063e8a70388e7440c1171c1e3.pdf">[PDF]</a></br>
+[1]. Bonnin, Geoffray, and Dietmar Jannach. "Automated generation of music playlists: Survey and experiments." ACM Computing Surveys (CSUR) 47.2 (2015): 26.  <a href="http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/JOURNAL_CSUR_2014.pdf">[PDF]</a></br>
 [2]. Kaminskas, Marius, and F. Ricci. "Contextual music information retrieval and recommendation: State of the art and challenges." Computer Science Review 6.2–3(2012):89-119.  <a href="http://www.sciencedirect.com/science/article/pii/S1574013712000135">[PDF]</a></br>
 [3]. Knees, Peter, and Markus Schedl. "A survey of music similarity and recommendation from music context data." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 10.1 (2013): 2. <a href="https://dl.acm.org/citation.cfm?id=2542206">[PDF]</a></br>
 </p>
