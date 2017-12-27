@@ -78,6 +78,14 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <a href="https://dl.acm.org/citation.cfm?doid=2736277.2741093">[PDF]</a></br>
 [5]. Grover, Aditya, and Jure Leskovec. "node2vec: Scalable Feature Learning for Networks." knowledge discovery and data mining (2016): 855-864.    <a href="https://dl.acm.org/citation.cfm?doid=2939672.2939754">[PDF]</a></br>
 </p>
+
+<h3>异构网络挖掘  Heterogeneous Information
+Network Analysis</h3>
+<p>
+[1]. Shi, Chuan, et al. "A survey of heterogeneous information network analysis." IEEE Transactions on Knowledge and Data Engineering 29.1 (2017): 17-37.<a href="http://ieeexplore.ieee.org/abstract/document/7536145/">[PDF]</a></br>
+[2]. Shi, Chuan, and S. Yu Philip. "Recommendation with Heterogeneous Information." Heterogeneous Information Network Analysis and Applications. Springer International Publishing, 2017. 97-141. <a href="https://link.springer.com/chapter/10.1007/978-3-319-56212-4_5">[PDF]</a></br>
+</p>
+
 <h3>重要节点 Vital Nodes</h3>
 <p>
 [1]. 任晓龙, and 吕琳媛. "网络重要节点排序方法综述." 科学通报 59.13 (2014): 1175-1197. <a href="http://www.linkprediction.org/resource/pdf/2014ReviewOfRankingNodesInComplexNetworks.pdf">[PDF]</a></br>
