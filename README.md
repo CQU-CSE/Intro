@@ -33,6 +33,7 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 [1]. Bonnin, Geoffray, and Dietmar Jannach. "Automated generation of music playlists: Survey and experiments." ACM Computing Surveys (CSUR) 47.2 (2015): 26.  <a href="http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/JOURNAL_CSUR_2014.pdf">[PDF]</a></br>
 [2]. Kaminskas, Marius, and F. Ricci. "Contextual music information retrieval and recommendation: State of the art and challenges." Computer Science Review 6.2–3(2012):89-119.  <a href="http://www.sciencedirect.com/science/article/pii/S1574013712000135">[PDF]</a></br>
 [3]. Knees, Peter, and Markus Schedl. "A survey of music similarity and recommendation from music context data." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 10.1 (2013): 2. <a href="https://dl.acm.org/citation.cfm?id=2542206">[PDF]</a></br>
+[4]. Oramas, Sergio, et al. "Sound and music recommendation with knowledge graphs." ACM Transactions on Intelligent Systems and Technology (TIST) 8.2 (2017): 21. <a href="https://dl.acm.org/citation.cfm?id=2926718">[PDF]</a></br>
 </p>
 
 <h3>社会化推荐 Social Recommendation</h3>
