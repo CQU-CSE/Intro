@@ -45,8 +45,9 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 
 <h3>基于深度学习的推荐 Deep Learning Based Recommenders</h3>
 <p>
-[1]. Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.    <a href="https://dl.acm.org/citation.cfm?id=2988454">[PDF]</a></br>
-[2]. Wang, Hao, Naiyan Wang, and Dit-Yan Yeung. "Collaborative deep learning for recommender systems." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.   <a href="https://dl.acm.org/citation.cfm?id=2783273">[PDF]</a></br>
+[1]. Zhang, Shuai, Lina Yao, and Aixin Sun. "Deep learning based recommender system: A survey and new perspectives." arXiv preprint arXiv:1707.07435 (2017). <a href="https://arxiv.org/abs/1707.07435">[PDF]</a></br>
+[2]. Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016.    <a href="https://dl.acm.org/citation.cfm?id=2988454">[PDF]</a></br>
+[3]. Wang, Hao, Naiyan Wang, and Dit-Yan Yeung. "Collaborative deep learning for recommender systems." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.   <a href="https://dl.acm.org/citation.cfm?id=2783273">[PDF]</a></br>
 </p>
 
 <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
