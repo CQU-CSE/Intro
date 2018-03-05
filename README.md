@@ -73,12 +73,13 @@ A collection of classical literatures for newbies (students of Prof. Gao) <b>Upd
 <h2>图/网络挖掘 Graph/Network Mining</h2>
 <h3>网络嵌入 Network Embedding</h3>
 <p>
-[1]. Goyal, Palash, and E. Ferrara. "Graph Embedding Techniques, Applications, and Performance: A Survey." (2017). <a href="https://arxiv.org/abs/1705.02801">[PDF]</a></br>
-[2]. Cai, Hongyun, Vincent W. Zheng, and Kevin Chen-Chuan Chang. "A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications." arXiv preprint arXiv:1709.07604 (2017). <a href="https://arxiv.org/abs/1709.07604">[PDF]</a> </br>
-[3]. Perozzi, Bryan, Rami Alrfou, and Steven Skiena. "DeepWalk: online learning of social representations." knowledge discovery and data mining (2014): 701-710.     <a href="https://dl.acm.org/citation.cfm?id=2623732">[PDF]</a></br>
-[4]. Tang, Jian, et al. "LINE: Large-scale Information Network Embedding." international world wide web conferences (2015): 1067-1077.
+[1]. 涂存超, 杨成, 刘知远, & 孙茂松. (2017). 网络表示学习综述. 科学通报, 43, 1681. <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/publications/sc2017_nrl.pdf">[PDF]</a></br>    
+[2]. Goyal, Palash, and E. Ferrara. "Graph Embedding Techniques, Applications, and Performance: A Survey." (2017). <a href="https://arxiv.org/abs/1705.02801">[PDF]</a></br>
+[3]. Cai, Hongyun, Vincent W. Zheng, and Kevin Chen-Chuan Chang. "A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications." arXiv preprint arXiv:1709.07604 (2017). <a href="https://arxiv.org/abs/1709.07604">[PDF]</a> </br>
+[4]. Perozzi, Bryan, Rami Alrfou, and Steven Skiena. "DeepWalk: online learning of social representations." knowledge discovery and data mining (2014): 701-710.     <a href="https://dl.acm.org/citation.cfm?id=2623732">[PDF]</a></br>
+[5]. Tang, Jian, et al. "LINE: Large-scale Information Network Embedding." international world wide web conferences (2015): 1067-1077.
 <a href="https://dl.acm.org/citation.cfm?doid=2736277.2741093">[PDF]</a></br>
-[5]. Grover, Aditya, and Jure Leskovec. "node2vec: Scalable Feature Learning for Networks." knowledge discovery and data mining (2016): 855-864.    <a href="https://dl.acm.org/citation.cfm?doid=2939672.2939754">[PDF]</a></br>
+[6]. Grover, Aditya, and Jure Leskovec. "node2vec: Scalable Feature Learning for Networks." knowledge discovery and data mining (2016): 855-864.    <a href="https://dl.acm.org/citation.cfm?doid=2939672.2939754">[PDF]</a></br>
 </p>
 
 <h3>异构网络挖掘  Heterogeneous Information
